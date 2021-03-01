@@ -1,3 +1,10 @@
+## Chara_InterTwine
+
+Going to combine the previous projects V_SET and AutoTwine as a plug-in for twinejs.
+
+
+
+
 ## twinejs
 
 by Chris Klimas, Andrew Plotkin, Leon Arnott, Daithi O Crualaoich, Ingrid
